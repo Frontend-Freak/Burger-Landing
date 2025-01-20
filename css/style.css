@@ -343,7 +343,7 @@ img{
 }
 
 .feedback__text::before{
-    content: url("../img/icons/quote.svg");
+    content: url("./img/icons/quote.svg");
 }
 
 .feedback__desc {
