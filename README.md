@@ -1,4 +1,3 @@
 # Burger-Landing
 
-
-https://wh04m7.github.io/Burger-Landing/
+https://frontend-freak.github.io/Burger-Landing/
